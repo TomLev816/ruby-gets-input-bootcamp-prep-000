@@ -9,3 +9,4 @@ greeting(name)
 
 def greeting(x)
   puts "hi, #{x}! Welcome to the wonderful world of Ruby programming."
+end
